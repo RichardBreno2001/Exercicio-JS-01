@@ -29,6 +29,7 @@ section {
 } 
 img {
     width: 300px;
+    padding-top: 30px;
     height: 300px;
     margin: auto;
     display: block;
